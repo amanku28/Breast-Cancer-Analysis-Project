@@ -1,12 +1,12 @@
-# This project analyzes a breast cancer dataset to assess a patient's chances of survival.
+This project analyzes a breast cancer dataset to assess a patient's chances of survival.
 
 **Objective:**
-# Breast cancer is a type of cancer that begins in the breast tissue. While it primarily affects women, men can also develop breast cancer. It is the second leading cause of death among women.
+Breast cancer is a type of cancer that begins in the breast tissue. While it primarily affects women, men can also develop breast cancer. It is the second leading cause of death among women.
 
-# ** Dataset:-**
+Dataset:-
 
-# This dataset includes a group of breast cancer patients who underwent surgery to remove their tumors. The dataset contains the following variables:
-# You have a dataset of over 400 breast cancer patients who underwent surgery for the treatment of breast cancer. Below is the information of all columns in the dataset:
+This dataset includes a group of breast cancer patients who underwent surgery to remove their tumors. The dataset contains the following variables:
+You have a dataset of over 400 breast cancer patients who underwent surgery for the treatment of breast cancer. Below is the information of all columns in the dataset:
 
 1. Patient_ID: ID of the patient
 2. Age: Age of the patient
